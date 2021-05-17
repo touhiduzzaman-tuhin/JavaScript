@@ -1,0 +1,10 @@
+let friendsNames = ['Shanto', 'Shawon', 'Sudip', 'Pranto', 'Asif'];
+console.log(friendsNames);
+console.log(friendsNames[3]);
+friendsNames[2] = 'Imran';
+console.log(friendsNames);
+console.log(friendsNames.length);
+friendsNames.push('Manun', 'Shakib');
+console.log(friendsNames);
+friendsNames.pop();
+console.log(friendsNames);
